@@ -370,24 +370,8 @@ a:hover {
 	/*width: 2.5em*/
 }
 
-#header nav a:hover {
-	font-size: 5em
-}
 
-#header nav a:hover:before {
-	background-color: rgba(255,255,255,.175);
-	color: #fff
-}
 
-#header nav a:active {
-	font-size: 5em;
-	background: 0 0
-}
-
-#header nav a:active:before {
-	background-color: rgba(255,255,255,.35);
-	color: #fff;
-}
 
 #header nav a span {
 	display: absolute;
